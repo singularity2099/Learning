@@ -66,12 +66,16 @@ Support of the initial and any further forks through the creation of community r
 
 Phylomemetic Tree Development. A phylo**genetic** tree is essentially the tree of life. i.e. all species that have ever existed and how they are linked. A phylo**memetic** tree is the same but tracks ideas/memes instead of genes. Development of bitcoin through an evolutionary process will allow the best ideas to succeed and the worst ideas to fail. Allowing people to freely chose which version of a cryptocurrency they want to use is key to making this happen.  Participants currently have only one choice if they disagree strongly with the current development; exit bitcoin completely. It is far too binary as it means price is only a reasonably good signal in the long-term, at which point it may already be too late to fix any problems. Giving participants a choice to support another 'version' of bitcoin is creating a very direct short-term and long-term signal of what the best approach is. It allows the market to signal in real-time.
 
-Allowing bitcoin to be a stigmergic system rather than a hierarchical top-down system. A ‘stigmergic' system is a self regulating system with no top down approach. It suits large decentralised projects. 
+Allowing bitcoin to be a stigmergic system rather than a hierarchical top-down system. A ‘stigmergic' system is a self regulating system with no top down approach. It suits large decentralised projects.
+
 [http://journal.media-culture.org.au/0605/03-elliott.php](http://journal.media-culture.org.au/0605/03-elliott.php)
+
 Essentially bitcoin should already be a stigmergic system right now if it wasn't for the failure of the power structure.
 
 A decentralised system works best when all its components are in equilibrium.
+
 [http://www.bitcoinwednesday.com/wp-content/uploads/2016/02/Bitcoins-Incentive-Structure.pdf](http://www.bitcoinwednesday.com/wp-content/uploads/2016/02/Bitcoins-Incentive-Structure.pdf)
+
 Developers, miners, investors and nodes should all have equal influence in the system and should be keeping each other in check through their own selfish interests. Currently the bitcoin developers have the majority share of power in this system as they are advocating against freedom of choice. Numerous attacks from various angles have been made to stop participants from having the freedom to choose the software they run and fork from the network. Collusion between the miners and main developers of bitcoin has made it so that investors, nodes and users have only one option to voice opposition, and that is to leave the bitcoin economy entirely. This is a very ineffective way of signalling to the miners and developers that their needs are not being met, because new users may be joining all the time and may be replacing participants who have exited. If the bitcoin economy and it’s participants are given freedom of choice to choose which ever version of bitcoin suits their needs best then participants are far less likely to exit the ecosystem entirely and therefore the total market cap of bitcoin as a collection of systems is likely to rise (although some versions will fail and some will succeed).
 
 ——————————————————————————————————
