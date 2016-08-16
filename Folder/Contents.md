@@ -1,7 +1,7 @@
 
 ##BTC Forks Roadmap 
 
-####Contents
+###Contents
 
 1. Introduction
 2. Goals of the Project
@@ -20,7 +20,7 @@
 ——————————————————————————————————
 
 
-####1. Introduction
+###1. Introduction
 
 We are forking Bitcoin.
 
@@ -34,7 +34,7 @@ The Bitcoin experiment has not failed. It's just getting started!
 ——————————————————————————————————
 
 
-####2. Goals of the Project
+###2. Goals of the Project
 
 1. Give users and market freedom of choice.
 2. Allow bitcoin to scale.
@@ -47,7 +47,7 @@ The Bitcoin experiment has not failed. It's just getting started!
 ——————————————————————————————————
 
 
-####3. Rough Schedule
+###3. Rough Schedule
 
 **Months 1-3 :** 
 Community development, establishment of necessary channels, build, and testing infrastructure, and community release of several proposed forks (including multiple client bases and PoW implementations). Our goal is to create a collaborative environment in which forks can be proposed, tested, evaluated, and deployed by the community and marketplace. We will research key challenges, like PoW changes, difficulty adjustment, script limits, and effects of blocksize cap through tests on our public test network.
@@ -62,19 +62,15 @@ Support of the initial and any further forks through the creation of community r
 ——————————————————————————————————
 
 
-####4. Governance
+###4. Governance
 
 Phylomemetic Tree Development. A phylo**genetic** tree is essentially the tree of life. i.e. all species that have ever existed and how they are linked. A phylo**memetic** tree is the same but tracks ideas/memes instead of genes. Development of bitcoin through an evolutionary process will allow the best ideas to succeed and the worst ideas to fail. Allowing people to freely chose which version of a cryptocurrency they want to use is key to making this happen.  Participants currently have only one choice if they disagree strongly with the current development; exit bitcoin completely. It is far too binary as it means price is only a reasonably good signal in the long-term, at which point it may already be too late to fix any problems. Giving participants a choice to support another 'version' of bitcoin is creating a very direct short-term and long-term signal of what the best approach is. It allows the market to signal in real-time.
 
-Allowing bitcoin to be a stigmergic system rather than a hierarchical top-down system. A ‘stigmergic' system is a self regulating system with no top down approach. It suits large decentralised projects.
-
-[http://journal.media-culture.org.au/0605/03-elliott.php](http://journal.media-culture.org.au/0605/03-elliott.php)
+Allowing bitcoin to be a [stigmergic](http://journal.media-culture.org.au/0605/03-elliott.php) system rather than a hierarchical top-down system. A ‘stigmergic' system is a self regulating system with no top down approach. It suits large decentralised projects.
 
 Essentially bitcoin should already be a stigmergic system right now if it wasn't for the failure of the power structure.
 
-A decentralised system works best when all its components are in equilibrium.
-
-[http://www.bitcoinwednesday.com/wp-content/uploads/2016/02/Bitcoins-Incentive-Structure.pdf](http://www.bitcoinwednesday.com/wp-content/uploads/2016/02/Bitcoins-Incentive-Structure.pdf)
+A decentralised system works best when all its components are in [equilibrium](http://www.bitcoinwednesday.com/wp-content/uploads/2016/02/Bitcoins-Incentive-Structure.pdf).
 
 Developers, miners, investors and nodes should all have equal influence in the system and should be keeping each other in check through their own selfish interests. Currently the bitcoin developers have the majority share of power in this system as they are advocating against freedom of choice. Numerous attacks from various angles have been made to stop participants from having the freedom to choose the software they run and fork from the network. Collusion between the miners and main developers of bitcoin has made it so that investors, nodes and users have only one option to voice opposition, and that is to leave the bitcoin economy entirely. This is a very ineffective way of signalling to the miners and developers that their needs are not being met, because new users may be joining all the time and may be replacing participants who have exited. If the bitcoin economy and it’s participants are given freedom of choice to choose which ever version of bitcoin suits their needs best then participants are far less likely to exit the ecosystem entirely and therefore the total market cap of bitcoin as a collection of systems is likely to rise (although some versions will fail and some will succeed).
 
@@ -144,7 +140,7 @@ The community, incl. development teams, would be able to accompany an open devel
 
 ——————————————————————————————————
 
-**Implementation Readiness Levels **
+**Implementation Readiness Levels**
 
 [http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html](http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html)
 
@@ -166,9 +162,9 @@ The following section outlines how the maturity of a proposal could be described
 ——————————————————————————————————
 
 
-####5. The First Spinoff
+###5. The First Spinoff
 
-The main goal of the first bitcoin spinoff will be to allow bitcoin to scale safely.
+The main goal of the first bitcoin spinoff will be to allow bitcoin to scale safely and facilitate the development of a process for further spinoffs.
 
 	Create final specification of MVF (Minimum Viable Fork)
 			↓
@@ -186,7 +182,7 @@ The main goal of the first bitcoin spinoff will be to allow bitcoin to scale saf
 ——————————————————————————————————
 
 
-####6. Future Objectives
+###6. Future Objectives
 
 - Create a bitcoin implementation written from scratch to clean the code up and function as the new reference client.  An effort could be made parallel to the actual phylomemetic evolution of Bitcoin to try to “catch up” in terms of documenting existing requirements and design, by integrating these dispersed parts of the tree, or alternatively, attempting to construct a clean formal specification of the system from scratch based on the inputs and knowledge that the phylomemetic process has delivered.
 
@@ -198,7 +194,7 @@ The main goal of the first bitcoin spinoff will be to allow bitcoin to scale saf
 ——————————————————————————————————
 
 
-####7. Support for Business Implementations
+###7. Support for Business Implementations
 
 Support for businesses wanting to implement a bitcoin spinoff. Forks designed with adequate documentation to make implementation by businesses easier.
 
@@ -206,7 +202,7 @@ Support for businesses wanting to implement a bitcoin spinoff. Forks designed wi
 ——————————————————————————————————
 
 
-####8. Expenses & Funding
+###8. Expenses & Funding
 
 
 #####Project Expenses
@@ -227,7 +223,7 @@ Support for businesses wanting to implement a bitcoin spinoff. Forks designed wi
 ——————————————————————————————————
 
 
-####9. Decentralisation of Communication Channels
+###9. Decentralisation of Communication Channels
 
 One key failure within the bitcoin community in recent years has been the centralisation of information and information exchange. Knowledge is power and whoever controls the main communication channels can control the narrative right now.
 
@@ -235,7 +231,7 @@ One key failure within the bitcoin community in recent years has been the centra
 ——————————————————————————————————
 
 
-####10. Definitions
+###10. Definitions
 
 It should be made clear that there is no such thing as an ‘official’ definition. These definitions are the ones that we feel are most logical and representative.
 
@@ -250,7 +246,7 @@ It should be made clear that there is no such thing as an ‘official’ definit
 ——————————————————————————————————
 ——————————————————————————————————
 
-####11. FAQ
+###11. FAQ
 
 Have any other questions about our project? Ask on our subreddit.
 
@@ -292,7 +288,7 @@ A hard fork is hard but necessary. After the first fork is executed, we expect t
 ——————————————————————————————————
 
 
-####12. Contribute
+###12. Contribute
 
 
 Calling all devs and non-devs alike: Help us bring Bitcoin to the world!
