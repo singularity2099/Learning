@@ -81,30 +81,30 @@ Developers, miners, investors and nodes should all have equal influence in the s
 Turning bitcoin development into an evolutionary system where progress is market driven rather than driven by a select few ‘official’ developers. The bitcoin evolutionary process is made up of three parts. The first part is the **Consensus Abstraction Layers**. The second part is the **Accelerated Phylomemetic Tree Development**. The third part is the **Implementation Readiness Levels**. Each part is designed to solve a different problem in bitcoin currently.
 
 
-	Consensus Abstraction Layers (CAL)
+**Consensus Abstraction Layers (CAL)**
 
 The consensus abstraction layers are a way of assessing and tracking changes to a cryptocurrency. These changes may be the general principles that the participants follow, the consensus logic that the network follows or specific changes in the code of an implementation. Use of the consensus abstraction layers will allow participants to hold other participants to account within the ecosystem and will reinforce the ability for users to consent to the network(s) they are using. If an implementation/code change is made that is not inline with the current abstraction layers of that cryptocurrency then this implementation is considered to be forked and the type of fork is dictated by the CAL that the fork has taken place on.
 
 
-		**CAL0 - Freedom of Choice**
+		##CAL0 - Freedom of Choice
 
 This layer represents the absolute fundamental principle of cryptocurrencies and their forks. Freedom of choice. People should be free to chose any cryptocurrency, or version of a cryptocurrency, that they want to, without coercion or force. 
 
 Forks of CAL0 type should never happen.
 
-		**CAL1 - Constitutional Principles**
+		CAL1 - Constitutional Principles
 
 These are the guiding principles of a cryptocurrency/spinoff. These are held above the code and must be adhered to by anyone participating in that cryptocurrency. If the constitutional principles are deviated from then a fork at CAL1 has occurred and new constitutional principles should be written that accommodate the new path forward. A new forked software should also be released with these new constitutional principles. Participants of the original constitutional principles must be allowed to continue on their side of the fork if they wish. Constitutional principles should be strongly worded to afford as little ambiguity as possible. The constitutional principles of a cryptocurrency or version of a cryptocurrency should be self-reinforcing as all participants must hold all other participants to account. 
 
 Forks of CAL1 type will happen very rarely.
 
-		**CAL2 - Consensus Logic**
+		CAL2 - Consensus Logic
 
 This is the logic/code that each node in the network must abide by. If a node does not abide by this logic they will be forked by the network. The specific code is able to be changed without a fork occurring as long as the logic stays the same. 
 
 Forks of CAL2 type will happen sometimes but not very often.
 
-		**CAL3 - Everything Else**
+		CAL3 - Everything Else
 
 This is any other code/feature that does not involve the lower consensus abstraction layers (CAL1,2,3). This is the layer that will most often be used to fix bugs and add features to the software/protocol. Changes to anything on this layer does not require consensus but of course consensus is always beneficial. 
 
@@ -112,7 +112,7 @@ Forks of CAL3 type will happen often.
 
 ——————————————————————————————————
 
-	**Accelerated Phylomemetic Tree Development**
+**Accelerated Phylomemetic Tree Development**
 
 The Accelerated Phylomemetic Tree Development system aims to achieve the goal of improving development productivity in a traceable, open and collabatory way.
 
@@ -140,22 +140,23 @@ The community, incl. development teams, would be able to accompany an open devel
 
 ——————————————————————————————————
 
-	Implementation Readiness Levels 
+**Implementation Readiness Levels **
+
 [http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html](http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html)
 
 The following section outlines how the maturity of a proposal could be described in terms of 'Implementation Readiness Levels'. The IRLs are a method of improving the quality and security of the code released and implemented into the economy. They also offer participants in the network a measure of the maturity of a technology.
 
-		**IRL1 - Basic Technology Research** - Ideas, observations, napkin drawings, good problem descriptions, solution suggestion blog posts, concept papers without a need for empirical data or proof-of-concept implementation.
+		IRL1 - Basic Technology Research - Ideas, observations, napkin drawings, good problem descriptions, solution suggestion blog posts, concept papers without a need for empirical data or proof-of-concept implementation.
 			↓
-		**IRL2 - Research to Prove Feasibility** - Research (analysis + experimental implementations yielding empirical data), published papers. No need for formal specification of requirements, design or verification methods. Peer review at research level.
+		IRL2 - Research to Prove Feasibility - Research (analysis + experimental implementations yielding empirical data), published papers. No need for formal specification of requirements, design or verification methods. Peer review at research level.
 			↓
-		**IRL3 - Technology Development** - Research elements turned into module implementations, either from scratch or based on existing prototypes.
+		IRL3 - Technology Development - Research elements turned into module implementations, either from scratch or based on existing prototypes.
 			↓
-		**IRL4 - Technology Demonstration** - Able to demonstrate limited functionality in a public or private test network (testnet).
+		IRL4 - Technology Demonstration - Able to demonstrate limited functionality in a public or private test network (testnet).
 			↓
-		**IRL5 - System/Subsystem Development** - Develop a public fork/spin-off system based on an existing production system (which could be a previous spin-off) by producing a delta of system/subsystem requirements and associated design, implementation, tests and verification results
+		IRL5 - System/Subsystem Development - Develop a public fork/spin-off system based on an existing production system (which could be a previous spin-off) by producing a delta of system/subsystem requirements and associated design, implementation, tests and verification results
 			↓
-		**IRL6 - System Test, Launch & Operations** - Public test phase on test network of existing system, with clear test plan and quality gates to move to next phase: public test on main network. Public test on main network with clear warning that this is a TEST ("Monopoly money"), and should not be treated as actual currency by anyone. Active steps to minimize detrimental impacts on existing operational network (non-aggression principle). After final validation, production release, and move to operational maintenance.
+		IRL6 - System Test, Launch & Operations - Public test phase on test network of existing system, with clear test plan and quality gates to move to next phase: public test on main network. Public test on main network with clear warning that this is a TEST ("Monopoly money"), and should not be treated as actual currency by anyone. Active steps to minimize detrimental impacts on existing operational network (non-aggression principle). After final validation, production release, and move to operational maintenance.
 
 ——————————————————————————————————
 ——————————————————————————————————
@@ -165,17 +166,17 @@ The following section outlines how the maturity of a proposal could be described
 
 The main goal of the first bitcoin spinoff will be to allow bitcoin to scale safely.
 
-	**Create final specification of MVF (Minimum Viable Fork)**
+	Create final specification of MVF (Minimum Viable Fork)
 			↓
-	**Create Initial MVF Client**
+	Create Initial MVF Client
 			↓
-	**Create Final Release of MVF Client**
+	Create Final Release of MVF Client
 			↓
-	**Run MVF on Test-net**
+	Run MVF on Test-net
 			↓
-	**Run Hidden MVF on Main-net**
+	Run Hidden MVF on Main-net
 			↓
-	**Launch MVF on Main-net**
+	Launch MVF on Main-net
 
 ——————————————————————————————————
 ——————————————————————————————————
@@ -204,7 +205,7 @@ Support for businesses wanting to implement a bitcoin spinoff. Forks designed wi
 ####8. Expenses & Funding
 
 
-	#####Project Expenses
+#####Project Expenses
 
 - Dev funding
 - Slack
@@ -212,7 +213,7 @@ Support for businesses wanting to implement a bitcoin spinoff. Forks designed wi
 - Education Material
 
 
-	#####Project Funding Ideas
+#####Project Funding Ideas
 
 - Donations
 - Client transaction fees.
@@ -294,11 +295,11 @@ Calling all devs and non-devs alike: Help us bring Bitcoin to the world!
 
 Start the conversation on reddit at [www.reddit.com/r/btcfork](https://www.reddit.com/r/btcfork)
 
-Vote on BTC Fork Constitution and features at btcfork.consider.it
+Vote on BTC Fork Constitution and features at [btcfork.consider.it](https://www.btcfork.consider.it)
 
-Contribute code or testing at www.github.com/BTCfork
+Contribute code or testing at [github.com/BTCfork](https://www.github.com/BTCfork)
 
-Follow us on Twitter at www.twitter.com/btcfork
+Follow us on Twitter at [twitter.com/btcfork](https://www.twitter.com/btcfork)
 
 Join us on Telegram at @BTCFork
 
