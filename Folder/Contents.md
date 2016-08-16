@@ -49,13 +49,13 @@ The Bitcoin experiment has not failed. It's just getting started.
 
 ####3. Rough Schedule
 
-Months 1-3 : 
+**Months 1-3 :** 
 Community development, establishment of necessary channels, build, and testing infrastructure, and community release of several proposed forks (including multiple client bases and PoW implementations). Our goal is to create a collaborative environment in which forks can be proposed, tested, evaluated, and deployed by the community and marketplace. We will research key challenges, like PoW changes, difficulty adjustment, script limits, and effects of blocksize cap through tests on our public test network.
 
-Months 3-6 : 
+**Months 3-6 :** 
 Client release of final binaries, and establishment of exchange relationships necessary to begin trading of dominant fork. Deployment of required network infrastructures, including an initial node and mining network. We will focus on getting a fork ready for widespread use, getting a working product to the marketplace.
 
-Months 6- : 
+**Months 6+ : **
 Support of the initial and any further forks through the creation of community resources for comparison, discussion, and decision making. We will faciliatate the overall Bitcoin governance process by encouraging sane forks, regardless of whether or not they are contentious. We will aim to provide the market with all resources and information necessary to make informed decisions.
 
 ——————————————————————————————————
@@ -64,44 +64,47 @@ Support of the initial and any further forks through the creation of community r
 
 ####4. Governance
 
-Phylomemetic Tree Development. A phylogenetic tree is essentially the tree of life. i.e. all species that have ever existed and how they are linked. A phylomemetic tree is the same but tracks ideas/memes instead of genes. Development of bitcoin through an evolutionary process will allow the best ideas to succeed and the worst ideas to fail. Allowing people to freely chose which version of a cryptocurrency they want to use is key to making this happen.  Participants currently have only one choice if they disagree strongly with the current development; exit bitcoin completely. It is far too binary as it means price is only a reasonably good signal in the long-term, at which point it may already be too late to fix any problems. Giving participants a choice to support another 'version' of bitcoin is creating a very direct short-term and long-term signal of what the best approach is. It allows the market to signal in real-time.
+Phylomemetic Tree Development. A phylo**genetic** tree is essentially the tree of life. i.e. all species that have ever existed and how they are linked. A phylo**memetic** tree is the same but tracks ideas/memes instead of genes. Development of bitcoin through an evolutionary process will allow the best ideas to succeed and the worst ideas to fail. Allowing people to freely chose which version of a cryptocurrency they want to use is key to making this happen.  Participants currently have only one choice if they disagree strongly with the current development; exit bitcoin completely. It is far too binary as it means price is only a reasonably good signal in the long-term, at which point it may already be too late to fix any problems. Giving participants a choice to support another 'version' of bitcoin is creating a very direct short-term and long-term signal of what the best approach is. It allows the market to signal in real-time.
 
-Allowing bitcoin to be a stigmergic system rather than a hierarchical top-down system. A ‘stigmergic' system is a self regulating system with no top down approach. It suits large decentralised projects. http://journal.media-culture.org.au/0605/03-elliott.php
+Allowing bitcoin to be a stigmergic system rather than a hierarchical top-down system. A ‘stigmergic' system is a self regulating system with no top down approach. It suits large decentralised projects. 
+[http://journal.media-culture.org.au/0605/03-elliott.php](http://journal.media-culture.org.au/0605/03-elliott.php)
 Essentially bitcoin should already be a stigmergic system right now if it wasn't for the failure of the power structure.
 
-A decentralised system works best when all its components are in equilibrium.  http://www.bitcoinwednesday.com/wp-content/uploads/2016/02/Bitcoins-Incentive-Structure.pdf Developers, miners, investors and nodes should all have equal influence in the system and should be keeping each other in check through their own selfish interests. Currently the bitcoin developers have the majority share of power in this system as they are advocating against freedom of choice. Numerous attacks from various angles have been made to stop participants from having the freedom to choose the software they run and fork from the network. Collusion between the miners and main developers of bitcoin has made it so that investors, nodes and users have only one option to voice opposition, and that is to leave the bitcoin economy entirely. This is a very ineffective way of signalling to the miners and developers that their needs are not being met, because new users may be joining all the time and may be replacing participants who have exited. If the bitcoin economy and it’s participants are given freedom of choice to choose which ever version of bitcoin suits their needs best then participants are far less likely to exit the ecosystem entirely and therefore the total market cap of bitcoin as a collection of systems is likely to rise (although some versions will fail and some will succeed).
+A decentralised system works best when all its components are in equilibrium.
+[http://www.bitcoinwednesday.com/wp-content/uploads/2016/02/Bitcoins-Incentive-Structure.pdf](http://www.bitcoinwednesday.com/wp-content/uploads/2016/02/Bitcoins-Incentive-Structure.pdf)
+Developers, miners, investors and nodes should all have equal influence in the system and should be keeping each other in check through their own selfish interests. Currently the bitcoin developers have the majority share of power in this system as they are advocating against freedom of choice. Numerous attacks from various angles have been made to stop participants from having the freedom to choose the software they run and fork from the network. Collusion between the miners and main developers of bitcoin has made it so that investors, nodes and users have only one option to voice opposition, and that is to leave the bitcoin economy entirely. This is a very ineffective way of signalling to the miners and developers that their needs are not being met, because new users may be joining all the time and may be replacing participants who have exited. If the bitcoin economy and it’s participants are given freedom of choice to choose which ever version of bitcoin suits their needs best then participants are far less likely to exit the ecosystem entirely and therefore the total market cap of bitcoin as a collection of systems is likely to rise (although some versions will fail and some will succeed).
 
 ——————————————————————————————————
 
-	####Bitcoin Evolutionary Processes (BEP)
+**Bitcoin Evolutionary Processes (BEP)**
 
-Turning bitcoin development into an evolutionary system where progress is market driven rather than driven by a select few ‘official’ developers. The bitcoin evolutionary process is made up of three parts. The first part is the Consensus Abstraction Layers. The second part is the Accelerated Phylomemetic Tree Development. The third part is the Implementation Readiness Levels. Each part is designed to solve a different problem in bitcoin currently.
+Turning bitcoin development into an evolutionary system where progress is market driven rather than driven by a select few ‘official’ developers. The bitcoin evolutionary process is made up of three parts. The first part is the **Consensus Abstraction Layers**. The second part is the **Accelerated Phylomemetic Tree Development**. The third part is the **Implementation Readiness Levels**. Each part is designed to solve a different problem in bitcoin currently.
 
 
-		Consensus Abstraction Layers (CAL)
+	Consensus Abstraction Layers (CAL)
 
 The consensus abstraction layers are a way of assessing and tracking changes to a cryptocurrency. These changes may be the general principles that the participants follow, the consensus logic that the network follows or specific changes in the code of an implementation. Use of the consensus abstraction layers will allow participants to hold other participants to account within the ecosystem and will reinforce the ability for users to consent to the network(s) they are using. If an implementation/code change is made that is not inline with the current abstraction layers of that cryptocurrency then this implementation is considered to be forked and the type of fork is dictated by the CAL that the fork has taken place on.
 
 
-		 CAL0 - Freedom of Choice 
+		**CAL0 - Freedom of Choice**
 
 This layer represents the absolute fundamental principle of cryptocurrencies and their forks. Freedom of choice. People should be free to chose any cryptocurrency, or version of a cryptocurrency, that they want to, without coercion or force. 
 
 Forks of CAL0 type should never happen.
 
-		 CAL1 - Constitutional Principles 
+		**CAL1 - Constitutional Principles**
 
 These are the guiding principles of a cryptocurrency/spinoff. These are held above the code and must be adhered to by anyone participating in that cryptocurrency. If the constitutional principles are deviated from then a fork at CAL1 has occurred and new constitutional principles should be written that accommodate the new path forward. A new forked software should also be released with these new constitutional principles. Participants of the original constitutional principles must be allowed to continue on their side of the fork if they wish. Constitutional principles should be strongly worded to afford as little ambiguity as possible. The constitutional principles of a cryptocurrency or version of a cryptocurrency should be self-reinforcing as all participants must hold all other participants to account. 
 
 Forks of CAL1 type will happen very rarely.
 
-		 CAL2 - Consensus Logic 
+		**CAL2 - Consensus Logic**
 
 This is the logic/code that each node in the network must abide by. If a node does not abide by this logic they will be forked by the network. The specific code is able to be changed without a fork occurring as long as the logic stays the same. 
 
 Forks of CAL2 type will happen sometimes but not very often.
 
-		 CAL3 - Everything Else 
+		**CAL3 - Everything Else**
 
 This is any other code/feature that does not involve the lower consensus abstraction layers (CAL1,2,3). This is the layer that will most often be used to fix bugs and add features to the software/protocol. Changes to anything on this layer does not require consensus but of course consensus is always beneficial. 
 
@@ -109,7 +112,7 @@ Forks of CAL3 type will happen often.
 
 ——————————————————————————————————
 
-			Accelerated Phylomemetic Tree Development
+	**Accelerated Phylomemetic Tree Development**
 
 The Accelerated Phylomemetic Tree Development system aims to achieve the goal of improving development productivity in a traceable, open and collabatory way.
 
@@ -127,8 +130,8 @@ Nevertheless, the it seems that such a tree-based evolution process could be app
 Once some points in this tree have reached sufficient maturity in terms of completeness and consistency, development teams might decide to 'adopt' them and see them through to implementation and release (on various Bitcoin client platforms). In this sense it is perhaps better if there is no strong linkage between the conceptual layers of requirements and design, and that of actual implementation, since separate groups might decide to implement a concept independently. They could, however, “tag” the nodes in the phylomemetic tree which correspond to the requirements & design which they are targeting, making it possible to have an overview of Bitcoin evolution as a whole.
 
 Proposed requirements and design elements should be formulated according to engineering best practices, i.e. they should strive to be complete, consistent, traceable, verifiable etc.
-https://zolotarev.fd.cvut.cz/ma/ctrl.php?act=show,file,9727
-http://www.win.tue.nl/~wstomv/edu/2ip30/references/smart-requirements.pdf
+[https://zolotarev.fd.cvut.cz/ma/ctrl.php?act=show,file,9727](https://zolotarev.fd.cvut.cz/ma/ctrl.php?act=show,file,9727)
+[http://www.win.tue.nl/~wstomv/edu/2ip30/references/smart-requirements.pdf](http://www.win.tue.nl/~wstomv/edu/2ip30/references/smart-requirements.pdf)
 
 Since it would be infeasible to create a prerequisite for elaboration of complete, consistent requirements and design of the existing system (a moving target), we propose that changes can be specified in isolation and discussed by experts based on their body of knowledge of various implementations and use cases. In this way, the phylomemetic tree would evolve partial specifications which are consistent in themselves, and could later be integrated to form a more complete specification picture of the entire system.
 
@@ -137,22 +140,22 @@ The community, incl. development teams, would be able to accompany an open devel
 
 ——————————————————————————————————
 
-			Implementation Readiness Levels 
-http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html
+	Implementation Readiness Levels 
+[http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html](http://www.nasa-usa.de/directorates/heo/scan/engineering/technology/txt_accordion1.html)
 
 The following section outlines how the maturity of a proposal could be described in terms of 'Implementation Readiness Levels'. The IRLs are a method of improving the quality and security of the code released and implemented into the economy. They also offer participants in the network a measure of the maturity of a technology.
 
-		IRL1 - Basic Technology Research - Ideas, observations, napkin drawings, good problem descriptions, solution suggestion blog posts, concept papers without a need for empirical data or proof-of-concept implementation.
+		**IRL1 - Basic Technology Research** - Ideas, observations, napkin drawings, good problem descriptions, solution suggestion blog posts, concept papers without a need for empirical data or proof-of-concept implementation.
 			↓
-		IRL2 - Research to Prove Feasibility - Research (analysis + experimental implementations yielding empirical data), published papers. No need for formal specification of requirements, design or verification methods. Peer review at research level.
+		**IRL2 - Research to Prove Feasibility** - Research (analysis + experimental implementations yielding empirical data), published papers. No need for formal specification of requirements, design or verification methods. Peer review at research level.
 			↓
-		IRL3 - Technology Development - Research elements turned into module implementations, either from scratch or based on existing prototypes.
+		**IRL3 - Technology Development** - Research elements turned into module implementations, either from scratch or based on existing prototypes.
 			↓
-		IRL4 - Technology Demonstration - Able to demonstrate limited functionality in a public or private test network (testnet).
+		**IRL4 - Technology Demonstration** - Able to demonstrate limited functionality in a public or private test network (testnet).
 			↓
-		IRL5 - System/Subsystem Development - Develop a public fork/spin-off system based on an existing production system (which could be a previous spin-off) by producing a delta of system/subsystem requirements and associated design, implementation, tests and verification results
+		**IRL5 - System/Subsystem Development** - Develop a public fork/spin-off system based on an existing production system (which could be a previous spin-off) by producing a delta of system/subsystem requirements and associated design, implementation, tests and verification results
 			↓
-		IRL6 - System Test, Launch & Operations - Public test phase on test network of existing system, with clear test plan and quality gates to move to next phase: public test on main network. Public test on main network with clear warning that this is a TEST ("Monopoly money"), and should not be treated as actual currency by anyone. Active steps to minimize detrimental impacts on existing operational network (non-aggression principle). After final validation, production release, and move to operational maintenance.
+		**IRL6 - System Test, Launch & Operations** - Public test phase on test network of existing system, with clear test plan and quality gates to move to next phase: public test on main network. Public test on main network with clear warning that this is a TEST ("Monopoly money"), and should not be treated as actual currency by anyone. Active steps to minimize detrimental impacts on existing operational network (non-aggression principle). After final validation, production release, and move to operational maintenance.
 
 ——————————————————————————————————
 ——————————————————————————————————
@@ -162,17 +165,17 @@ The following section outlines how the maturity of a proposal could be described
 
 The main goal of the first bitcoin spinoff will be to allow bitcoin to scale safely.
 
-	Create final specification of MVF (Minimum Viable Fork)
+	**Create final specification of MVF (Minimum Viable Fork)**
 			↓
-	Create Initial MVF Client
+	**Create Initial MVF Client**
 			↓
-	Create Final Release of MVF Client
+	**Create Final Release of MVF Client**
 			↓
-	Run MVF on Test-net
+	**Run MVF on Test-net**
 			↓
-	Run Hidden MVF on Main-net
+	**Run Hidden MVF on Main-net**
 			↓
-	Launch MVF on Main-net.
+	**Launch MVF on Main-net**
 
 ——————————————————————————————————
 ——————————————————————————————————
@@ -201,7 +204,7 @@ Support for businesses wanting to implement a bitcoin spinoff. Forks designed wi
 ####8. Expenses & Funding
 
 
-	Project Expenses
+	#####Project Expenses
 
 - Dev funding
 - Slack
@@ -209,7 +212,7 @@ Support for businesses wanting to implement a bitcoin spinoff. Forks designed wi
 - Education Material
 
 
-	Project Funding Ideas
+	#####Project Funding Ideas
 
 - Donations
 - Client transaction fees.
@@ -231,13 +234,13 @@ One key failure within the bitcoin community in recent years has been the centra
 
 It should be made clear that there is no such thing as an ‘official’ definition. These definitions are the ones that we feel are most logical and representative.
 
-Hard Fork - A hard fork is a change the consensus logic of the network, such that anyone who does not upgrade to the new consensus logic will not be a part of the new network. The are different types of hard fork.
+**Hard Fork** - A hard fork is a change the consensus logic of the network, such that anyone who does not upgrade to the new consensus logic will not be a part of the new network. The are different types of hard fork.
 
-Spinoff - A spinoff is a type of hard fork where not all participants in the network agree to the new constitutional principles or consensus logic. In this situation the spinoff will have somewhere between 0-100% of the network share which is made up of market cap and participants. Depending on whether a spinoff has the same proof of work the spinoff will also take a share of the miners on the network.
+**Spinoff** - A spinoff is a type of hard fork where not all participants in the network agree to the new constitutional principles or consensus logic. In this situation the spinoff will have somewhere between 0-100% of the network share which is made up of market cap and participants. Depending on whether a spinoff has the same proof of work the spinoff will also take a share of the miners on the network.
 
-Participant - Anyone who takes part in the bitcoin economy. That could be a user, speculator, miner, developer, business or investor.
+**Participant** - Anyone who takes part in the bitcoin economy. That could be a user, speculator, miner, developer, business or investor.
 
-Altcoin - A cryptocurrency that starts with it’s own genesis block.
+**Altcoin** - A cryptocurrency that starts with it’s own genesis block.
 
 ——————————————————————————————————
 ——————————————————————————————————
@@ -246,37 +249,37 @@ Altcoin - A cryptocurrency that starts with it’s own genesis block.
 
 Have any other questions about our project? Ask on our subreddit.
 
-Is this just another [altcoin / pump and dump]? 
+**Is this just another [altcoin / pump and dump]?**
 
 No! First of all this is not an altcoin; it is a Bitcoin implementation that forks from the main chain, preserving the same UTXO set, genesis block, and blockchain up to a certain height. While some may redefine the word "altcoin" to include any forks of the main chain outside the de facto reference implementation, we do not agree with this disingenuous use of the term.
 
 
-Who is behind this project? 
+**Who is behind this project?**
 
 We are a group of Bitcoin developers, users, and supporters who are frustrated by the lack of scaling and governance solutions proposed by the status quo. While many of us choose to remain anonymous and pseudonymous for fear of attack in what remains a politically loaded space, we will strive to make as much information on the development of our fork public as possible. We welcome any with time or skills to spare to join the project using the links below.
 
 
-Why now?
+**Why now?**
 
 After years of stalling on the scaling issue (with solutions demanded as early as 2012), we believe the time has come to abandon ultraconservatism and move towards progress and open experimentation. With many popular Bitcoin businesses expressing concerns or pivoting out of the space, we see an existential crisis looming for Bitcoin if scaling is not improved soon. The active engagement of the community in forks as a freedom-preserving upgrade mechanism is long overdue.
 
 
-What client are we using for the fork?
+**What client are we using for the fork?**
 
 We have not chosen a specific client for the fork. Rather, we aim to encourage all developers to propose forking clients, and wish to provide an infrastructure through which these forks can all be tested and evaluated. We support any and all technically significant forks of the current blockchain, and believe all should be discussed and submitted to consideration to the wider community.
 
 
-But can't a fork cause loss of funds? 
+**But can't a fork cause loss of funds?**
 
 No, a properly implemented and deployed fork will not cause a loss of funds in the absence of severe negligence. Because the new fork inherently has a different value than the old chain, and requires proactive upgrade actions from users and nodes, these users have an opportunity to take appropriate security protections in anticipation of the fork. Old clients will simply continue operating on the old chain, with clients intending to trade goods for fiat simply operating with the exchange value of the old chain. Several cryptocurrencies have already demonstrated successful forks with no fund loss, and we believe the fear of such forks in the Bitcoin community is unsupported by the current empirical evidence.
 
 
-Why not a soft fork? 
+**Why not a soft fork?**
 
 We believe deploying critical protocol changes through soft forks is an inherently bloated process that is coercive to far more people than an equivalent hard fork. Soft forks activate exclusively on miner vote, disenfranchising nodes that do not hold hashpower and excluding them from the decision process. Furthermore, many soft forks decrease the security of old nodes by removing their ability to meaningfully validate an ever-increasing percentage of transactions in blocks. Lastly, soft forks are coercive to dissident miners, who are forced to either upgrade to the fork or accept the potential orphaning of all blocks they mine. On the other hand, a hard fork allows all users of the system to explicitly choose the consensus rules and blockchain with which they transact. Hard forks also mitigate the damage possible through development capture by allowing users a choice to change to a chain with values, developers, and code of their choosing. Ultimately, hard forks are an essential upgrade mechanism, and critical to the antifragility of all cryptocurrency.
 
 
-But a hard fork is hard? 
+**But a hard fork is hard?**
 
 A hard fork is hard but necessary. After the first fork is executed, we expect the ecosystem of tools surrounding the management of forks to become increasingly robust, supporting future forks in a far more seamless and low-effort fashion.
 
@@ -289,7 +292,7 @@ A hard fork is hard but necessary. After the first fork is executed, we expect t
 
 Calling all devs and non-devs alike: Help us bring Bitcoin to the world!
 
-Start the conversation on reddit at www.reddit.com/r/btcfork
+Start the conversation on reddit at [www.reddit.com/r/btcfork](https://www.reddit.com/r/btcfork)
 
 Vote on BTC Fork Constitution and features at btcfork.consider.it
 
