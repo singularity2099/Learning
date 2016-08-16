@@ -55,7 +55,7 @@ Community development, establishment of necessary channels, build, and testing i
 **Months 3-6 :** 
 Client release of final binaries, and establishment of exchange relationships necessary to begin trading of dominant fork. Deployment of required network infrastructures, including an initial node and mining network. We will focus on getting a fork ready for widespread use, getting a working product to the marketplace.
 
-**Months 6+ : **
+**Months 6+ :**
 Support of the initial and any further forks through the creation of community resources for comparison, discussion, and decision making. We will faciliatate the overall Bitcoin governance process by encouraging sane forks, regardless of whether or not they are contentious. We will aim to provide the market with all resources and information necessary to make informed decisions.
 
 ——————————————————————————————————
